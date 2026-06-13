@@ -1,0 +1,45 @@
+feature,importance
+recency_days,0.15481542
+frequency_180d,0.041672833
+preferred_category_Wellness,0.035486616
+negative_ticket_rate_90d,0.032690257
+monetary_180d,0.02946778
+acquisition_channel_Organic,0.028516082
+wishlist_adds_30d,0.02837064
+loyalty_tier_Gold,0.027949763
+return_rate_180d,0.025691394
+campaign_clicks_30d,0.025349958
+cart_adds_30d,0.02195736
+email_opens_30d,0.021355318
+acquisition_channel_Instagram,0.021296324
+preferred_category_Skin Care,0.021190543
+age_group_35-44,0.020963168
+age_group_45+,0.020846125
+acquisition_channel_Referral,0.020720331
+last_visit_days_ago,0.020657476
+loyalty_tier_Platinum,0.02055858
+ticket_count_90d,0.020464556
+preferred_category_Makeup,0.020307522
+avg_resolution_hours_90d,0.020228356
+product_views_30d,0.020093037
+avg_rating_180d,0.019629583
+loyalty_tier_Not Enrolled,0.019164458
+days_since_signup,0.018865332
+acquisition_channel_Google Search,0.017864818
+abandoned_carts_30d,0.017682582
+sessions_30d,0.017543057
+avg_discount_pct_180d,0.016376335
+city_tier_Tier 1,0.016215686
+preferred_category_Fragrance,0.016204558
+category_diversity_180d,0.015741123
+preferred_category_Baby Care,0.01470791
+age_group_25-34,0.014679015
+loyalty_tier_Silver,0.014609399
+preferred_category_Hair Care,0.013963994
+city_tier_Tier 3,0.0138674965
+marketing_consent_No,0.013625035
+acquisition_channel_Marketplace,0.012084474
+city_tier_Tier 2,0.010298508
+age_group_18-24,0.009575474
+acquisition_channel_Influencer,0.006651746
+marketing_consent_Yes,0.0
