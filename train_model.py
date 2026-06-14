@@ -17,8 +17,8 @@ from xgboost import XGBClassifier
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score, confusion_matrix
 
 # Directories
-DATA_DIR = r"C:\Users\Lenovo\.gemini\antigravity\scratch\d2c_customer_churn\data"
-OUTPUT_DIR = r"C:\Users\Lenovo\.gemini\antigravity\scratch\d2c_customer_churn\part3"
+DATA_DIR = r"../data"
+OUTPUT_DIR = r"."
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Load data
