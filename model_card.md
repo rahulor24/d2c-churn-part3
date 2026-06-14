@@ -5,7 +5,7 @@ This model card details the training, performance, limitations, and ethical cons
 ---
 
 ## 1. Model Details
-* **Developed By:** Data Science Team
+* **Developed By:** Rahul
 * **Model Date:** June 13, 2026
 * **Model Type:** Extreme Gradient Boosting (XGBoost) Classifier
 * **Version:** 1.0.0
